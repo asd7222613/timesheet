@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+.table tr th {
+	text-align: center;
+}
+
+.table tbody tr td {
+	vertical-align: middle;
+}
+
+.btn {
+	border-radius: 5px;
+}
